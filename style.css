@@ -1,0 +1,35 @@
+p{
+    color: red;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;;
+}
+div{
+    background-color: gray;
+}
+.bottom{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width:100%;
+    font-size: 30px;
+    color: blueviolet;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    width:300px;
+    border-radius: 10px;
+    border-color: blue;
+}
+b{
+    color: brown;
+}
+.bottom1{
+    font-size: 25px;
+}
